@@ -1,5 +1,3 @@
-# Titulo
+# Comandos básicos en git
 
-## Subtitulo
-
-texto
+**git init:** Inicia un repositorio local en mi computadora
