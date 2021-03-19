@@ -6,3 +6,5 @@
 - **git commit:** Guarda los cambios de los archivos traqueados en el repositorio.
 - **git push origin master:** mandar los cambios al repositorio remoto (Depende de la rama).
 - **git pull origin master:** trae los cambios de un repositorio remoto (Depende de la rama).
+- **git branch nombre** Crea una rama en git
+- **git checkout nombre** Cambiar entre ramas
